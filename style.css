@@ -1,0 +1,61 @@
+    
+#info p{
+  font-family:Ink Free;
+  color:rgb(41, 83, 83);}
+#header h1{
+font: italic  "Fira Sans", serif;}
+#about ul{
+  font-size:15px;
+}
+#projects ul{
+    color:crimson;
+}
+#projects h3{
+    font-family:Ink Free;
+color:mediumpurple;
+
+}
+.about-me {
+  text-align: center;
+}
+#header div{
+  background-image:url("images/1.jpg");
+}
+
+#info{
+  background-image:url("images/bg2.jpg");
+}
+#headings{
+  text-align:center;
+}
+#about p{
+  text-align:center;
+}
+
+input:hover{
+  border-color:yellow;
+  color:blueviolet;
+}
+div.card-body{
+background-image:url("images/bg4.jpg");}
+* {
+  box-sizing: border-box;
+}
+.container {
+  position: relative;
+  max-width: 800px;
+  margin: 0 auto;
+}
+
+.container img {vertical-align: middle;}
+
+.container .content {
+  position: absolute;
+  bottom: 0;
+  background: rgb(0, 0, 0); 
+  background: rgba(0, 0, 0, 0.5);
+  color: #f1f1f1;
+  width: 100%;
+  padding: 20px;
+}
+
